@@ -1,0 +1,36 @@
+form{
+    padding: 40px;
+}
+input{
+  width: 50%;
+  padding: 15px;
+  margin-bottom: 24px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+ 
+}
+label{
+    font-family: 'Source Sans Pro';
+    font-size:14px;
+    color: #1A1A1A;
+}
+input::placeholder{
+    font-family: 'Source Sans Pro';
+    font-size:14px;
+    color: #737373;
+}
+button{
+    background-color: #0063E6;
+    width: 50%;
+    font-family: 'Source Sans Pro';
+    font-size:14px;
+    color: #FFFFFF;
+    margin-top: 32px;
+    height:36px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+button:hover{
+    background-color: #F0F6FF;
+}

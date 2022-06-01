@@ -1,0 +1,36 @@
+.card {
+    border-radius: 1px;
+    transition: 0.3s;
+    width: 290px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  }
+  .card img {
+    height: 290px;
+    width: 290px;
+  }
+  .card:hover {
+    box-shadow: 0 3px 18px 0 #000000;
+    opacity:0.6;
+  }
+.container{
+    padding-left:16px;
+}
+.beach{
+    font-family: 'Source Sans Pro';
+    font-size: 15px;
+    color: #0F5EF0;
+    padding-top:20px;
+}
+.rufus{
+    font-family: 'Source Sans Pro';
+    font-size: 12px;
+    color: #7a8594;
+    padding-top:18px;
+}
+.bfrost{
+    font-family: 'Source Sans Pro';
+    font-size: 12px;
+    color: #7a8594;
+    padding-top:20px;
+    padding-bottom:14px ;
+}
